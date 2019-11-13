@@ -1,0 +1,112 @@
+body{
+	background-color: #ffcc99;
+	margin-top: 20px;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 20px; 
+	
+
+}
+
+div#logo{
+	background-color: #fb0e22;
+	font-family: arial;
+	font-size: 50px;
+	text-align: center;
+	font-variant:small-caps;
+	text-shadow:  8px 8px 16px white;
+	color: white;
+	letter-spacing: 15px;
+	padding: 20px;
+	border-color: white;
+	border-style: double;
+	box-shadow: 10px 10px 18px white;
+	border-radius: 15px;
+}
+
+div#logo:active, div#logo:hover{
+	border-color: red;
+	color:red;
+	background-color: white;
+	box-shadow: 10px 10px 18px pink;
+	text-shadow:  8px 8px 16px pink;
+	border-radius: 15px;
+}
+div#menu{
+	background-color: brown;
+	border-color: white;
+	text-align: center;
+	border-style: solid;
+	border-radius: 15px;
+
+}
+table,tr,td{
+	margin: 0 auto;
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	color:white;
+	
+}
+td#gl:active, td#gl:hover{
+	border-color: blue;
+	
+}
+td#zdj:active, td#zdj:hover{
+	border-color: blue;
+	
+}
+td#wiki:active, td#wiki:hover{
+	border-color: blue;
+	
+}
+td#ankieta:active, td#ankieta:hover {
+	border-color: blue;
+	
+}
+iframe{
+	border-radius: 15px;
+}
+a{
+	color:white;
+}
+a:active, a:hover{
+	color:yellow;
+}
+img{
+	text-align: center;
+}
+div#galeria{
+	text-align: center;
+	color: blue;
+	font-size: 40px;
+}
+
+ul,li{
+	text-align: center;
+	list-style: circle;
+}table#zdjecia{
+	text-align: center;
+
+}
+table#tab{
+	border-style: solid;
+	border-width: 7px;
+	text-align: center;
+}
+img#img{
+	width: 450px;
+	height: 450px;
+	align-content: center;
+}
+p#cos{
+	text-align: center;
+}
+div#galeria{
+	text-align: center;
+}
+footer{
+	text-align: center;
+	font-size: 20px;
+	color:red;
+}
